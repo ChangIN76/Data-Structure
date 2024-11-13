@@ -1,0 +1,10 @@
+﻿  Program.cpp
+D:\SBS아카데미게임학원\Program\Program.cpp(20,5): error C2059: 구문 오류: '{'
+      D:\SBS아카데미게임학원\Program\Program.cpp(20,5):
+      템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+          D:\SBS아카데미게임학원\Program\Program.cpp(6,7):
+          클래스 템플릿 'SingleLinkedList'을(를) 컴파일하는 동안
+  
+D:\SBS아카데미게임학원\Program\Program.cpp(20,5): error C2334: '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+D:\SBS아카데미게임학원\Program\Program.cpp(60,9): error C2760: 구문 오류: 여기서 '}'은(는) 예상치 못한 오류였습니다. 예상된 오류는 '식'였습니다
+D:\SBS아카데미게임학원\Program\Program.cpp(60,9): error C2760: 구문 오류: 여기서 '}'은(는) 예상치 못한 오류였습니다. 예상된 오류는 ';'였습니다
